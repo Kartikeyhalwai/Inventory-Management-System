@@ -13,7 +13,7 @@ import database
 
 # Configure Streamlit page layout and metadata
 st.set_page_config(
-    page_title="Garment Inventory Tracker",
+    page_title="MYI ~ Manage Your Inventory",
     page_icon="👔",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -28,7 +28,7 @@ from pages import dashboard, add_garment, view_inventory, update_garment, delete
 
 def main():
     # Application Title in Main Area
-    st.title("👔 Garment Inventory Tracker")
+    st.title("MYI ~ Manage Your Inventory")
     st.caption("Internal Apparel Inventory Management & Record Organization System")
 
     # Sidebar Header

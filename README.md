@@ -1,6 +1,6 @@
-# 👔 Garment Inventory Tracker
+# MYI ~ Manage Your Inventory
 
-A clean, reliable, and functional **Garment Inventory Tracker** built with **Python**, **Streamlit**, **SQLite**, and **Pandas**.
+A clean, reliable, and functional **MYI ~ Manage Your Inventory** system built with **Python**, **Streamlit**, **SQLite**, and **Pandas**.
 
 Designed for an **Apparel Analyst Intern** portfolio, this application demonstrates core apparel merchandising and operations skills: structured garment classification, accurate record-keeping, multi-attribute search and filtering, real-time stock updates, and data persistence.
 
