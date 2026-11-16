@@ -61,7 +61,7 @@ def main():
     st.sidebar.caption("Database: SQLite (`garment_inventory.db`)")
 
     st.sidebar.markdown("---")
-    st.sidebar.caption("Portfolio Project: Apparel Analyst Intern")
+    st.sidebar.caption("MYI ~ Manage Your Inventory")
 
     # Render selected view
     if selected_page == "1. Dashboard":
